@@ -1,2 +1,2 @@
 # MobileDevelopment
-My mobile app developments
+My mobile app developments scripts
